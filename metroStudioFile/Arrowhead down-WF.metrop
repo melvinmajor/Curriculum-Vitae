@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IconProject Version="2.0" Name="Arrowhead down-WF" PUAEnable="true" BasicLatinEnable="false">
+  <Icon Name="Arrowhead down-WF" HasCharacterMap="false" Data="M30.587915,0L31.995998,1.4199842 15.949964,17.351 0,1.4979873 1.4099131,0.078979151 15.949964,14.53102z" IsDirty="false" FontName="Arrowhead down-WF" IsDuplicate="false" ASCIIValue="" AlphaNumericValue="" FiValue="" GroupName="Application" DataFont="M501.1,319.5L46.7,771.1 2.6,726.8 501,231.4 1002.4,729.2 958.4,773.6 501.1,319.5z" ExportCommand="MetroGraphicsPackage.IconCommand">
+    <Settings MainWidth="256" MainHeight="256" FlipX="-1" FlipY="1" CustomSize="256" IconShape="None" BackgroundBrush="#FFB881FF" ContentWidth="256" ContentHeight="256" Angle="0" IsRect="false" SizeIndex="6" CustomWidth="256" CustomHeight="256" IsLinked="false" Padding="0" MaximumPadding="79" SldierValueChanged="MetroGraphicsPackage.IconCommand" IconBrush="#FFFFC107" FontFamily="Webdings" Character="&gt;" FlipCommand="MetroGraphicsPackage.IconCommand" IsBackgroundVisible="true" />
+  </Icon>
+  <PreferenceInfo ClassPrefix="sf-icon-" ClassPostfix="" CSSSelector="Attribute" CSSClassName="sf-icon" />
+</IconProject>
