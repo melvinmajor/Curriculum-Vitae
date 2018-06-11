@@ -1,10 +1,25 @@
 /**
  * Made by Melvin Campos Casares
  * Created : Late 2017
- * Last update : Early 2018
+ * Last update : Mid 2018
  */
 
 function main() {}
+
+/*
+ * Deactivate right click on img
+ */
+$(document).ready(function(){
+  $('img').bind('contextmenu', function(e){
+    return false;
+  });
+});
+
+$('img').mousedown(function (e) {
+  if(e.button == 2) { //right click
+    return false; //do nothing
+  });
+}
 
 /*
  * JS part specific to sidenav
