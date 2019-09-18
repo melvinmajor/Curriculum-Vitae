@@ -1,7 +1,6 @@
 ># CV
->Curriculum Vitae of Melvin Campos Casares
 >
->-> Last update : March 2018
+>Curriculum Vitae of Melvin Campos Casares
 
 ># FR - README en Français
 
