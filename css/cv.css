@@ -1,7 +1,7 @@
 /**
  * Made by Melvin Campos Casares
  * Created : Late 2017
- * Last update : Mid 2018
+ * Last update : Early 2020
  */
 
 @import url('https://fonts.googleapis.com/css?family=Oxygen:300,400,700');
@@ -94,8 +94,8 @@ footer {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
-  height: 190px;
-  width: 190px;
+  height: 225px;
+  width: 225px;
   margin: .75rem;
   position: relative;
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
@@ -114,11 +114,19 @@ footer {
 .linkExpDetail {
   color: #263238;
 }
-.head {
+.head, .head a {
   display: inline;
   font-style: italic;
   font-weight: bold;
   color: #bbdefb;
+  transition: .6s;
+}
+.head:hover, .head a:hover {
+  font-style: italic;
+  text-decoration: underline;
+  color: white;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
 }
 .formatDate {
   font-size: 10px;
