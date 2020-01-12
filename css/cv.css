@@ -12,7 +12,7 @@ body {
   color: white;
   font-family: 'Oxygen', sans-serif;
   font-size: 90%;
-  margin-bottom: 60px; /* Footer height + 15px */
+  margin-bottom: 85px; /* Footer height + 30px */
 }
 h1 {
   font-size: 200%;
@@ -49,50 +49,55 @@ footer {
  * ID
  */
 #coordinates {
-  background-color: #42a5f5;
+  background-color: #78909c;
   width: 490px;
-  margin: 5px auto 2em;
+  margin: 2em auto 5em;
   padding: 5px;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  border-radius: 10px;
 }
 #coordinates:hover { box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); }
 #cursusExp {
   background-color: white;
-  margin: 10px auto;
+  margin: 20px auto;
   padding: 1px 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   color: #263238;
   width: 750px;
+  border-radius: 5px;
 }
 #formation {
   background-color: white;
-  margin: 10px auto;
+  margin: 20px auto;
   padding: 1px 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   color: #263238;
   width: 750px;
+  border-radius: 5px;
 }
 #competences {
   background-color: white;
-  margin: 10px auto;
+  margin: 20px auto;
   padding: 1px 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   color: #263238;
   width: 750px;
+  border-radius: 5px;
 }
 #interests {
   background-color: white;
-  margin: 10px auto;
+  margin: 20px auto;
   padding: 1px 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   color: #263238;
   width: 750px;
+  border-radius: 5px;
 }
 #profilePic {
   float: left;
   background: #fff;
-  border-radius: 2px;
+  border-radius: 5px;
   display: inline-block;
   height: 225px;
   width: 225px;
