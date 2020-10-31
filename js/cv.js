@@ -4,8 +4,6 @@
  * Last update : Mid 2018
  */
 
-function main() {}
-
 /*
  * Deactivate right click on img
  */
